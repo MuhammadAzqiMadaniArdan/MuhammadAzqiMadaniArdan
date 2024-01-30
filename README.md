@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=MuhammadAzqiMadaniArdan&style=flat-square&color=blue" alt="" align="center"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAzqiMadaniArdan&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="600" height="300"/>
