@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,15 +24,17 @@
 </h1>
 
 ### :man_technologist: About Me :
-I'm Muhammad Azqi Madani Ardan
-I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.🇮🇩
+My Name is Muhammad Azqi Madani Ardan 👨‍🦱
 
--🌱 I’m currently learning React
+I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
+
+- :tea: I’m currently learning Laravel <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="30">
+
 - :telescope: I’m working as a Students.
 
 - :seedling: Exploring Technical Content.
 
-- :zap: In my free time, I painting and coding.
+- :paintbrush: In my free time, I painting and coding.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
 
@@ -62,8 +64,10 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzqiMadaniArdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <h1>
-  Thanks For Your Time ! ☘️🙂
+  Thanks For Your Time ! ☘️🙂 
 </h1>
+
+<br>
 <!--
 **MuhammadAzqiMadaniArdan/MuhammadAzqiMadaniArdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
