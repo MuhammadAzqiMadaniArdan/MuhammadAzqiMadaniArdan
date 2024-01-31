@@ -38,7 +38,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :paintbrush: In my free time, I painting and coding.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -59,6 +59,8 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://pngimg.com/uploads/php/php_PNG43.png" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" title="Laravel" **alt="Laravel" width="40" height="40"/>
+  <img src="https://images.vexels.com/media/users/3/166253/isolated/lists/14bc03b7b1c2c4e2656fd4c0a981cbbc-cpp-programming-language-icon.png" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue_js_logo.png" title="Vue" **alt="Vue" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
