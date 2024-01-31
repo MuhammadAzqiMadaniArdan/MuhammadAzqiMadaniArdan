@@ -64,6 +64,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuhammadAzqiMadaniArdan&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzqiMadaniArdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=MuhammadAzqiMadaniArdan&theme=algolia&show_icons=true)](https://github.com/MuhammadAzqiMadaniArdan)
 <br>
 <h1>
   Thanks For Your Time ! ☘️🙂 
