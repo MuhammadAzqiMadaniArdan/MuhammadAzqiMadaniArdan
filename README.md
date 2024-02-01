@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    Welcome in my github Account 🚪
+    Welcome To My Github Account 🚪
     </h1>
 </div>
 <div align="center">
@@ -69,8 +69,9 @@
 <h1>
  🍀 Thanks For Your Time ! 🙂 
   <hr>
-  🕰️ Waktu terus Berjalan! SEE YA!
+  🕰️ Hurry UP ! time keeps chasing you !
 </h1>
+    <br>
 <div  align="center">
   <img src="https://media4.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
