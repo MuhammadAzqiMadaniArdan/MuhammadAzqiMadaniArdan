@@ -1,8 +1,8 @@
 <div id="header" align="center">
-    <h2>
-        
+    <h1>
     Welcome in my github Account 🚪
-    </h2>
+        
+    </h1>
 </div>
 <div align="center">
   <img src="https://media0.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="600" height="300"/>
