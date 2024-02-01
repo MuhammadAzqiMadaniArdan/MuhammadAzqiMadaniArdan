@@ -74,7 +74,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h1>
   Thanks For Your Time ! ☘️🙂 
-  <br>
+  <hr>
   See You!
 </h1>
 
