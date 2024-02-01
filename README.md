@@ -70,9 +70,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzqiMadaniArdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![MuhammadAzqiMadaniArdan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAzqiMadaniArdan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count=8)](https://github.com/MuhammadAzqiMadaniArdan)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=MuhammadAzqiMadaniArdan&theme=algolia&show_icons=true)
-<-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]() -->
-<-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MuhammadAzqiMadaniArdan&count_private=true&theme=tokyonight&showicons=true)]() -->
+![Top Langs](https://github-readme-stats.vercel.app/api?username=MuhammadAzqiMadaniArdan&theme=algolia&show_icons=true&include_all_commits)
 
 <h1>
   Thanks For Your Time ! ☘️🙂 
