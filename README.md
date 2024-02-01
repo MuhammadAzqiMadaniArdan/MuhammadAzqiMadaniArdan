@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+    Welcome in my github Account 🚪
+</div>
 <div align="center">
   <img src="https://media0.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="600" height="300"/>
 </div>
@@ -7,17 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadAzqiMadaniArdan&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align = "center">
 <h1>
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <hr>
-  Welcome in my github Account 🚪
+  My Name is Muhammad Azqi Madani Ardan 🍀
 </h1>
+</div>
+:man_technologist: About Me :
 
-### :man_technologist: About Me :
-My Name is Muhammad Azqi Madani Ardan 👨‍🦱 ☄️
+-🗒️:My Name is Muhammad Azqi Madani Ardan 👨‍🦱 ☄️
 
-I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
+-🔙:I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
 
 - :tea: I’m currently learning Laravel <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="30">
 
