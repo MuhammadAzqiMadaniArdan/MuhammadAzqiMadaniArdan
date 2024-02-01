@@ -1,5 +1,8 @@
 <div id="header" align="center">
+    <h2>
+        
     Welcome in my github Account 🚪
+    </h2>
 </div>
 <div align="center">
   <img src="https://media0.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="600" height="300"/>
@@ -14,14 +17,14 @@
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <hr>
-  My Name is Muhammad Azqi Madani Ardan 🍀
+  I'm Muhammad Azqi 🍀
 </h1>
 </div>
 :man_technologist: About Me :
 
--🗒️:My Name is Muhammad Azqi Madani Ardan 👨‍🦱 ☄️
+- :notebook:My Name is Muhammad Azqi Madani Ardan 👨‍🦱 ☄️
 
--🔙:I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
+- :back:I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
 
 - :tea: I’m currently learning Laravel <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="30">
 
