@@ -1,23 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-facebook-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAzqiMadaniArdan&style=flat-square&color=blue" alt=""/>
-</div>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="600" height="300"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAzqiMadaniArdan&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
@@ -72,12 +59,26 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![MuhammadAzqiMadaniArdan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAzqiMadaniArdan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count=8)](https://github.com/MuhammadAzqiMadaniArdan)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=MuhammadAzqiMadaniArdan&theme=algolia&show_icons=true&include_all_commits)
 
+<div align="center">
 <h1>
-  Thanks For Your Time ! ☘️🙂 
+ 🍀 Thanks For Your Time ! 🙂 
   <hr>
-  See You!
+  🕰️ Waktu terus Berjalan! SEE YA!
 </h1>
-
+<div  align="center">
+  <img src="https://media4.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-facebook-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 <br>
 <!--
 **MuhammadAzqiMadaniArdan/MuhammadAzqiMadaniArdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
