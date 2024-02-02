@@ -69,7 +69,7 @@
 <h1>
  🍀 Thanks For Your Time ! 🙂 
   <hr>
-  🕰️ Hurry UP ! time keeps chasing you !
+  GOODBYEEEE !   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <br>
 <div  align="center">
