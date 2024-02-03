@@ -19,7 +19,7 @@
   I'm Muhammad Azqi 🍀
 </h1>
 </div>
-:man_technologist: About Me :
+:🕵️: About Me :
 
 - :notebook:My Name is Muhammad Azqi Madani Ardan 👨‍🦱 ☄️
 
