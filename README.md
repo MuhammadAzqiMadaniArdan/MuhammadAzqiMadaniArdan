@@ -29,7 +29,7 @@
 
 - :telescope: I’m working as a Students.
 
-- :seedling: Exploring Technical Content.
+- :seedling: Exploring Technical Content.😊
 
 - :paintbrush: In my free time, I painting and coding.
 
