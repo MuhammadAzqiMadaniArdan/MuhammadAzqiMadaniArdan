@@ -64,7 +64,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzqiMadaniArdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![MuhammadAzqiMadaniArdan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAzqiMadaniArdan&hide=html,stylus,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count=8)](https://github.com/MuhammadAzqiMadaniArdan)
+<a href="https://github.com/MuhammadAzqiMadaniArdan">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzqiMadaniArdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+
 <div align="center">
 <h1>
  🍀 Thanks For Your Time ! 🙂 
