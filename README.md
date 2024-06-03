@@ -63,7 +63,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuhammadAzqiMadaniArdan&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzqiMadaniArdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![MuhammadAzqiMadaniArdan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAzqiMadaniArdan&hide=html,stylus,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count=8)](https://github.com/MuhammadAzqiMadaniArdan)
+[![MuhammadAzqiMadaniArdan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAzqiMadaniArdan&hide=html,stylus,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count=8)](https://github.com/MuhammadAzqiMadaniArdan)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=MuhammadAzqiMadaniArdan&theme=algolia&show_icons=true&include_all_commits)
 
 <div align="center">
