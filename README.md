@@ -3,20 +3,8 @@
     Welcome To My Github Account 🚪
     </h1>
 </div>
-<div align="center">
-  <img src="https://media0.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="600" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAzqiMadaniArdan&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align = "center">
-<h1>
-  Hey There 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <hr>
-  I'm Muhammad Azqi 🍀
+<h1>  I'm Muhammad Azqi 🍀
 </h1>
 </div>
 
@@ -60,7 +48,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuhammadAzqiMadaniArdan&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzqiMadaniArdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <a href="https://github.com/MuhammadAzqiMadaniArdan">
