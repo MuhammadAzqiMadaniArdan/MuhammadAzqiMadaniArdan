@@ -25,8 +25,8 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
 
+<div align="center">
 ### :hammer_and_wrench: Languages and Tools :
-<div>
     
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
@@ -47,16 +47,15 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; -->
-
-
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 </div>
 
+<div align="center">
+    
 ### :fire: My Stats :
-
 
 <a href="https://github.com/MuhammadAzqiMadaniArdan">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzqiMadaniArdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -64,6 +63,7 @@
 </img>
 </a>
 
+</div>
 
 <div align="center">
 <h1>
