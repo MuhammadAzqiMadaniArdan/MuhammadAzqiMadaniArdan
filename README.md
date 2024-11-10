@@ -24,7 +24,7 @@
 - :paintbrush: In my free time, I painting and coding.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
-
+<br>
 <div align="center">
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
     
@@ -52,7 +52,7 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 </div>
-
+<br>
 <div align="center">
     
 <h2 style="text-bold">:fire: My Stats :</h2>
@@ -64,7 +64,7 @@
 </a>
 
 </div>
-
+<br>
 <div align="center">
 <h1>
  🍀 Thanks For Your Time ! 🙂 
