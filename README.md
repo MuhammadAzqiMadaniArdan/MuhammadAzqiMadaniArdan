@@ -55,7 +55,7 @@
 
 <div align="center">
     
-<h2 style="text-bold"></h2>:fire: My Stats :</h2>
+<h2 style="text-bold">:fire: My Stats :</h2>
 
 <a href="https://github.com/MuhammadAzqiMadaniArdan">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzqiMadaniArdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
