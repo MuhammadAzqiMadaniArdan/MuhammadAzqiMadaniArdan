@@ -26,7 +26,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
 
 <div align="center">
-### :hammer_and_wrench: Languages and Tools :
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
     
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@
 
 <div align="center">
     
-### :fire: My Stats :
+<h2 style="text-bold"></h2>:fire: My Stats :</h2>
 
 <a href="https://github.com/MuhammadAzqiMadaniArdan">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzqiMadaniArdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
