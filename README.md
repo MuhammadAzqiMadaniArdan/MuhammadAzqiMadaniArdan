@@ -45,16 +45,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
-  <img src="https://pngimg.com/uploads/php/php_PNG43.png" title="PHP" **alt="PHP" width="40" height="40"/>
-  <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" title="Laravel" **alt="Laravel" width="40" height="40"/>
+  <img src="https://pngimg.com/uploads/php/php_PNG43.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue_js_logo.png" title="Vue" **alt="Vue" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue_js_logo.png" title="Vue" alt="Vue" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
