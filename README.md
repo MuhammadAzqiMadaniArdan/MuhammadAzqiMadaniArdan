@@ -4,7 +4,7 @@
     </h1>
 </div>
 <br>
-<img src="https://github.com/user-attachments/assets/f71a3e6d-ae07-405c-8d05-f40a09bcce81"></img>
+<img src="https://github.com/user-attachments/assets/a7363cdf-4347-4a02-a338-3a7e254e4065"></img>
 <div align = "center">
     <br>
 <h1>  I'm Muhammad Azqi 🍀
