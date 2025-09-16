@@ -17,7 +17,7 @@
 
 - :back:I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
 
-- :tea: I’m currently learning Go <img src="https://www.nicepng.com/png/detail/370-3707528_65159967-golang-logo.png" width="30">
+- :tea: I’m currently learning Go <img src="https://www.nicepng.com/png/detail/264-2641184_111-kb-png-golang-logo.png" width="30">
 
 - :telescope: I’m working as a Students.
 
