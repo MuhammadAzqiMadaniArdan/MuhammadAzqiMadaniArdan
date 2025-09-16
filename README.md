@@ -15,9 +15,9 @@
 
 - :notebook:My Name is Muhammad Azqi Madani Ardan 👨‍🦱 ☄️
 
-- :back:I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
+- :back:I am a Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia :indonesia:
 
-- :tea: I’m currently learning Laravel <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="30">
+- :tea: I’m currently learning Go <img src="https://www.nicepng.com/png/detail/370-3707528_65159967-golang-logo.png" width="30">
 
 - :telescope: I’m working as a Students.
 
