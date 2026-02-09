@@ -4,6 +4,8 @@
     </h1>
 </div>
 <br>
+<img width="1920" height="997" alt="Muhammad-Azqi-Madani-Ardan-Personal-Website" src="https://github.com/user-attachments/assets/d3bd6d0d-e882-4745-82d7-a5c01da87b4c" />
+
 <img src="https://github.com/user-attachments/assets/a7363cdf-4347-4a02-a338-3a7e254e4065"></img>
 <div align = "center">
     <br>
