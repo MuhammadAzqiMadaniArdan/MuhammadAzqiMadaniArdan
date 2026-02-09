@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    Welcome To My Github Account 🚪
+    Welcome To My Github Account 
     </h1>
 </div>
 <br>
@@ -69,15 +69,15 @@
 <br>
 <div align="center">
 <h1>
- 🍀 Thanks For Your Time ! 🙂 
-  <hr>
-  GOODBYEEEE !   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Thanks For Your Time ! 
+  <!-- <hr> -->
+  <!-- GOODBYEEEE !   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
     <br>
 <div  align="center">
   <img src="https://media4.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -87,7 +87,7 @@
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-</div>
+</div> -->
 <br>
 <!--
 **MuhammadAzqiMadaniArdan/MuhammadAzqiMadaniArdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
