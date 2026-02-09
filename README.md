@@ -25,7 +25,7 @@
 
 - :paintbrush: In my free time, I painting and coding.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-azqi-madani-ardan-06013b277)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/muhammadazqi)
 <br>
 <div align="center">
 <h2>:hammer_and_wrench: Most Used Technology:</h2>
